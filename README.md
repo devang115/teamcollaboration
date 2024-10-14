@@ -15,7 +15,7 @@ This project is a user-friendly and responsive interface for the Team Collaborat
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/team-collaboration-hub.git
+   git clone https://github.com/devang/team-collaboration-hub.git
    cd team-collaboration-hub
    ```
 
@@ -63,6 +63,3 @@ This project is deployed on Vercel. You can view the live version at: [Live URL]
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
